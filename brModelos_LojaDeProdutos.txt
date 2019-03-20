@@ -1,0 +1,71 @@
+loja de material de produtos
+
+*dados dos produltos*
+
+nome
+quant de estoque
+quant minima em estoque
+preço 
+marca 
+descrição 
+departamenmto
+
+#loja vende os produltos para clientes previamente cadastrados#
+
+ *dados dos clientes*
+
+nome 
+cpf 
+sexo
+data de nascimento
+rg
+cnpj
+inscrição estadual e municipal
+razão social
+website
+telefone
+endereço completo
+
+#quem faz as vendas são os vendedores#
+
+*dados dos vendedores*
+
+nome
+matricula
+cpf
+fone
+enderço completo
+data de admição
+1 supervisor = vendedor
+
+#cada vendedor tem somente um supervisor#
+
+*venda possui*
+
+data da venda
+valor da venda
+nota fiscal
+vendedor
+cliente
+produltos
+
+#para o abastecimento da loja será necessario comprar produltos#
+
+#produltos fornecidos por fornecedores#
+
+dados dos fornecedores*
+
+nome
+razão social
+cnpj
+website
+inscrição estadual e municipal
+telefone
+endereço completo
+
+*compra da loja*
+
+data da compra
+valor da compra 
+fornecedor
+produtos

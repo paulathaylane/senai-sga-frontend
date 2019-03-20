@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 5;
+
+}
+h1{
+    font-size: 15pt;
+}
+h2{
+    font-size: 18pt;
+}
+
+#div1{
+    margin: auto;
+
+}
+#div2{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 20pt;
+    width: 800px;
+    height: 300px;
+    border: 5px;
+    border-radius: 10px;
+    margin: auto;
+}
+#div3{
+    text-align: center;
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 20pt;
+    width: 500px;
+    height: 300px;
+    border: 5px;
+    border-radius: 10px;
+    float: left;
+
+}
+#div4{
+    text-align: center;
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 20pt;
+    width: 500px;
+    height: 300px;
+    border: 5px;
+    border-radius: 10px;
+    position: relative;
+    float: right;
+
+}
+#div5{
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 20pt;
+    width: 500px;
+    height: 300px;
+    border: 5px;
+    border-radius: 10px;
+    float: left;
+    text-align: center;
+
+}
+#div6{
+    width: 1500px;
+    height: 300px;
+    margin: auto;
+    border: 5px;
+    border-radius: 10px;
+}
+#div7{
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 18pt;
+    width: 800px;
+    height: 500px;
+    border: 5px;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+}
+#div8{
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 18pt;
+    width: 800px;
+    height: 500px;
+    border: 5px;
+    border-radius: 10px;
+    text-align: center;
+    float: right;
+}
+#div9{
+    width: 1700px;
+    height: 700px;
+    margin: 2px auto;
+    padding: 5px;
+    border: 5px;
+    border-radius: 10px;
+}
+#div10{
+    width: 1700px;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(3, 49, 3);
+    font-size: 25pt;
+    text-align: center;
+    font-weight: bolder; 
+    background-color: rgba(49, 77, 68, 0.733);
+    margin: auto;
+    border: 5px;
+    border-radius: 10px;
+}
+#div11{
+    background-color: rgb(222, 245, 222);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 18pt;
+    width: 800px;
+    height: 500px;
+    border: 5px;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+}
+#div12{
+    width: 1700px;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(3, 49, 3);
+    font-size: 25pt;
+    text-align: center;
+    font-weight: bolder; 
+    background-color: rgba(49, 77, 68, 0.733);
+    margin: auto;
+    border: 5px;
+    border-radius: 10px;
+}
+#div13{
+    color: darkgreen;
+    font-size: 18pt;
+    width: 800px;
+    height: 500px;
+    border: 5px;
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+}
+#div14{
+    width: 1700px;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(3, 49, 3);
+    font-size: 25pt;
+    text-align: center;
+    font-weight: bolder; 
+    background-color: rgba(49, 77, 68, 0.733);
+    margin: auto;
+    border: 5px;
+    border-radius: 10px;
+}
+body{
+    background-color: lightgray;
+}

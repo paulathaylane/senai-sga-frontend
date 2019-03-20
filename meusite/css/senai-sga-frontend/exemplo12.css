@@ -1,0 +1,13 @@
+table {
+    font-family: calibri;
+    font-size: 14pt;
+}
+#tr1 {
+    background-color: rgb(79, 129, 189);
+}
+#tr2,#tr4 {
+    background-color: rgb(208, 216, 232);
+}
+#tr3, #tr5 {
+    background-color: rgb(233, 237, 244);
+}

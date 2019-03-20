@@ -1,0 +1,18 @@
+h2 {
+    color: blueviolet; /*define a cor da letra*/
+    text-decoration: rgba(255, 0, 56, 0.3) underline; /*define sublinhado*/
+    text-align: center; /*alinhamento do texto*/
+    border: 2px solid; /*coloca borda*/
+    border-color: blue; /*define a cor da borda*/
+    border-radius: 10px; /*arredonda a borda*/
+}
+p {
+    color: white;
+    font-style: italic;
+    text-align: right;
+    font-family: 'Georgia, 'Times New Roman', Times, serif'; /*define a fonte*/
+    background-color: black;
+}
+body {
+    background-image:url('imagens/imagem.jpg'); /*coloca foto de fundo*/
+}

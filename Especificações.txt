@@ -1,0 +1,50 @@
+*serviço de locação
+
+Cliente_ID
+Funcionário_ID
+Copia_ID
+data da locação
+valor da locação
+data de previsão de entrega
+data de devolução
+
+*cadastro de cliente
+
+Nome
+data de nascimento
+cpf
+sexo
+telefone
+endereço
+
+*cadastro de filmes
+
+titulo
+duração
+país de origem
+atores
+diretores
+genero
+classificação
+sinopse
+ano de lançamento
+
+*cadastro de funcionários
+
+nome
+sexo
+telefone
+matricula
+
+*cadastro de titular (resp cliente)
+
+nome
+data de nascimento
+telefone
+grau de parentesco
+
+*copias
+
+quantidade de midias
+tipo de midias (audios / legendas // dvd / bluray etc)
+observações (relatório de uso)
